@@ -1,4 +1,5 @@
 print("--" * 60)
+print("hello worldd")
 age=int(input("Enter your age: "))
 print("--" * 60)
 if age > 18:
